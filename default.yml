@@ -22,6 +22,13 @@ org_settings:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
     org_name: Thai Clubstar
+  fleet_desktop:
+    transparency_url: https://catoftheday.com
+  web_settings:
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://webhook.site/3c50ae5f-7bd1-400f-8f32-5f086477dccb
+    
 
   server_settings:
     ###########################################################
