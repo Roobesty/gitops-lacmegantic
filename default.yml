@@ -142,4 +142,4 @@ controls:
 # > "Make sure everyone in finance has the latest version of Excel"
 ###########################################################
 labels:
-  - path: ./labels/*.yml
+  - paths: ./labels/*.yml
