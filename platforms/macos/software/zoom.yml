@@ -6,5 +6,6 @@ software:
       setup_experience: true
       categories:
         - Communication
+        - Productivity
 post_install_script:
   path: ../scripts/zoom-config.sh
